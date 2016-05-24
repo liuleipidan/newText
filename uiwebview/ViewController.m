@@ -22,7 +22,6 @@ static NSString* commonHtmlTitle = @"<font size=\"10\">";
 //}
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"viewDidLoad");
     CGRect frame = CGRectMake(50,50,300,300);
 //    frame.size = [UIImage imageNamed:@"guzhang.gif"].size;
     // 读取gif图片数据
